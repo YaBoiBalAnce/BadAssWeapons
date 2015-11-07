@@ -1,0 +1,6 @@
+name: BadAssWeapons
+description: The main Control! :)
+version: 0.1
+main: baw\main
+api: 1.12.0
+
